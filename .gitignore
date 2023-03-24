@@ -1,0 +1,5 @@
+# vagrant cache
+**/.vagrant/
+
+# IDEA
+.idea
