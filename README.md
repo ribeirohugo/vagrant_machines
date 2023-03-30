@@ -12,9 +12,14 @@ In this topic there are different Vagrant virtual machines.
 * PHP 5.6
 * MySQL server
 
-
 ### [Lamp Server](ubuntu20-php5)
 * Ubuntu 20 Focal Fossa
 * Apache
 * PHP 5.6
+* MySQL server
+
+### [Lamp Server](ubuntu20-php7)
+* Ubuntu 20 Focal Fossa
+* Apache
+* PHP 7.4
 * MySQL server
